@@ -23,10 +23,6 @@
 - Contribuir para a comunidade tech e projetos open source  
 
 ---
-
-## 📫 Onde me encontrar  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-- [![Email](Tiago.devops.Martins@outlook.com)
 - 
 
 <!--
