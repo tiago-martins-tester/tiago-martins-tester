@@ -26,7 +26,7 @@
 
 ## 📫 Onde me encontrar  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-martins-2a01742b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tiago.devops.Martins@outlook.com)  
+  
 
 
 <!--
